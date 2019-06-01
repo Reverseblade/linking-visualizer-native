@@ -1,0 +1,3 @@
+rootProject.name = 'linking_visualizer_native'
+
+include ':app'
